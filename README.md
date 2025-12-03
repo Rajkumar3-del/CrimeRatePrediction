@@ -19,7 +19,6 @@ This project predicts future crime rates using historical and demographic data. 
 5. SQL used to store and fetch past crime records  
 
 ## 🗂️ Project Structure
-## 🔄 Project Workflow
 
 ### 1️⃣ Data Collection
 - Historical crime data is stored in a CSV file.
