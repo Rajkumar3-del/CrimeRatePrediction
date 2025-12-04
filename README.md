@@ -127,7 +127,7 @@ This project demonstrates the complete lifecycle of a predictive analytics syste
 
 By implementing a regression-based crime prediction model without external ML libraries, the project highlights strong fundamentals in algorithm design and real-world problem solving. The workflow is simple, interpretable, and efficient, making it suitable for academic submissions, interviews, and portfolio demonstrations.
 
-Overall, this project reflects:
+Overal , this project reflects:
 - Clear understanding of data-driven decision making  
 - Ability to design end-to-end machine learning pipelines  
 - Strong Java programming and SQL handling skills  
