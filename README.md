@@ -22,7 +22,7 @@ This project predicts future crime rates using historical and demographic data. 
 
 ### 1️⃣ Data Collection
 - Historical crime data is stored in a CSV file.
-- Dataset includes year, population, poverty rate, unemployment rate, and crime rate.
+- Dataset includes country state,year,population,violent_crimes,property_crimes,other_crimes,gdp_per_capita,unemployment_rate.
 
 ### 2️⃣ Data Preprocessing
 - CSV data is loaded into Java using file I/O.
@@ -66,20 +66,19 @@ This project predicts future crime rates using historical and demographic data. 
 - **Java (Core Java, OOP, File I/O)**
 - **SQL (MySQL or SQLite)**
 - **CSV Dataset**
-
-## ▶️ How to Run
-1. Open project in any Java IDE  
-2. Place the CSV file inside `/dataset/`  
-3. Run `Main.java`  
-4. Enter demographic values to get crime rate prediction  
-
+  
 ## 📊 Dataset Used
 Includes:
-- Year  
-- Population  
-- Unemployment Rate  
-- Poverty Rate  
-- Crime Rate  
+country
+state
+year
+population
+violent_crimes
+property_crimes
+other_crimes
+gdp_per_capita
+unemployment_rate
+
 
 ## ✔️ Output
  Sample Output (Console View)
