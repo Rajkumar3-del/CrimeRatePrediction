@@ -69,15 +69,15 @@ This project predicts future crime rates using historical and demographic data. 
   
 ## 📊 Dataset Used
 Includes:
--country
--state
--year
--population
--violent_crimes
--property_crimes
--other_crimes
--gdp_per_capita
--unemployment_rate
+- country
+- state 
+- year
+- population
+- violent_crimes
+- property_crimes
+- other_crimes
+- gdp_per_capita
+- unemployment_rate
 
 
 ## ✔️ Output
