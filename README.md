@@ -82,6 +82,43 @@ Includes:
 - Crime Rate  
 
 ## ✔️ Output
+ Sample Output (Console View)
+
+User input:
+
+Enter a country or state name: India
+
+
+System output:
+
+Fetching crime statistics for: India ...
+
+✔ Historical data loaded (2010–2024)
+✔ Crime model loaded (Random Forest Regression)
+✔ Predicting crime rates ...
+
+-------------------------------------------------------
+           CRIME RATE PREDICTION – 2025
+-------------------------------------------------------
+Country: India
+Most Affected State (Predicted): Uttar Pradesh
+Predicted National Crime Summary:
+-------------------------------------------------------
+Violent Crimes (Predicted):        48,920 cases
+Property Crimes (Predicted):      182,430 cases
+Cyber Crimes (Predicted):          26,540 cases
+Other Crimes (Predicted):          13,120 cases
+-------------------------------------------------------
+
+Top 5 States With Highest Predicted Crime:
+ 1. Uttar Pradesh     → 57,200 cases
+ 2. Maharashtra       → 42,900 cases
+ 3. West Bengal       → 38,100 cases
+ 4. Tamil Nadu        → 33,750 cases
+ 5. Karnataka         → 30,660 cases
+
+Prediction completed using Machine Learning (RandomForestRegressor)
+-------------------------------------------------------
 Predicts next-year crime rate based on historical trends and socio-economic factors.
 
 ---
